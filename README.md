@@ -1,0 +1,3 @@
+CHANNEL_ACCESS_TOKENにLINEで発行したチャンネルアクセストークン
+GEMINI_API_KEYにGEMINIのAPI key
+を設定してください
